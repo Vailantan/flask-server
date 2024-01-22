@@ -1,4 +1,3 @@
 flask==2.2.5
-opencv-python
-yolo
-ultralytics
+opencv-python==4.8.0.76
+ultralytics==8.1.1
